@@ -1,0 +1,27 @@
+{
+  "name": "GStack",
+  "tagline": "23 opinionated tools that turn Claude Code into a virtual engineering team — CEO, designer, eng manager, QA, security, release engineer, and more.",
+  "description": "GStack is Garry Tan's complete software factory for Claude Code. 23 specialized skills that run in sprint order: Think → Plan → Build → Review → Test → Ship → Reflect. Each skill feeds into the next. /office-hours reframes your product before code. /plan-ceo-review challenges scope. /plan-eng-review locks architecture. /design-review catches AI slop. /qa finds bugs with a real browser. /ship handles release. /retro reflects on what shipped. Includes GBrain for persistent knowledge, /browse for real Chromium, /pair-agent for multi-AI coordination, and /cso for security audits.",
+  "author": "garrytan",
+  "repo_url": "https://github.com/garrytan/gstack",
+  "raw_url": "https://github.com/garrytan/gstack",
+  "added": "2025-05-07",
+  "compatible_with": ["claude_code"],
+  "tags": ["methodology", "workflow", "qa", "security", "design", "planning", "release", "browser", "agents"],
+  "suitable_for": [
+    "Founders and CEOs who still want to ship",
+    "First-time Claude Code users",
+    "Tech leads wanting rigorous review and QA",
+    "Parallel multi-sprint development",
+    "End-to-end product shipping"
+  ],
+  "improves": [
+    "Product thinking before code",
+    "Architecture rigor",
+    "Design quality",
+    "Test coverage",
+    "Security posture",
+    "Release confidence",
+    "Team velocity"
+  ]
+}

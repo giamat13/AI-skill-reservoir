@@ -1,0 +1,25 @@
+{
+  "name": "Ghost OS",
+  "tagline": "Autonomous AI operating system for managing tasks, workflows, and agent coordination.",
+  "description": "Ghost OS is an autonomous AI operating system that manages tasks, workflows, and multi-agent coordination. Create autonomous agents, manage task queues, handle inter-agent communication, and orchestrate complex workflows. Designed for building self-managing AI systems with persistent state and advanced scheduling capabilities.",
+  "author": "ghostwright",
+  "repo_url": "https://github.com/ghostwright/ghost-os",
+  "raw_url": "https://github.com/ghostwright/ghost-os",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["autonomous-ai", "operating-system", "agents", "orchestration", "task-management", "workflows", "scheduling"],
+  "suitable_for": [
+    "Autonomous AI agent systems",
+    "Task queue management",
+    "Multi-agent orchestration",
+    "Workflow automation",
+    "Self-managing AI systems"
+  ],
+  "improves": [
+    "Autonomous agent capabilities",
+    "Task management efficiency",
+    "Agent coordination",
+    "Workflow orchestration",
+    "System autonomy"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Canvas Design",
+  "tagline": "Create beautiful visual art and designs — posters, graphics, and visual compositions with design philosophy.",
+  "description": "Complete workflow for creating original visual art and designs in PNG and PDF formats. Two-step process: Design Philosophy Creation (develop an aesthetic movement/visual philosophy) and Canvas Expression (create museum-quality visual designs). Emphasizes visual communication over text, expert craftsmanship, spatial composition, color theory, and artistic interpretation. Includes guidance on design principles, typography integration, multi-page compositions, and achieving professional-grade output. Creates original designs without copying existing artists' work.",
+  "author": "anthropics",
+  "repo_url": "https://github.com/anthropics/skills/tree/main/skills/canvas-design",
+  "raw_url": "https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/canvas-design/SKILL.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["design", "visual-art", "graphics", "poster", "composition", "aesthetics", "typography"],
+  "suitable_for": [
+    "Creating posters and visual art",
+    "Designing graphics and compositions",
+    "Developing visual identities",
+    "Creating museum-quality designs",
+    "Artistic visual expression",
+    "Design philosophy exploration"
+  ],
+  "improves": [
+    "Visual design quality",
+    "Artistic expression",
+    "Composition skills",
+    "Design philosophy understanding",
+    "Professional-grade output"
+  ]
+}

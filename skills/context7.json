@@ -1,0 +1,23 @@
+{
+  "name": "Context7",
+  "tagline": "Up-to-date code documentation for LLMs and AI code editors — keep context fresh and accurate.",
+  "description": "Context7 Platform provides real-time code documentation and context management for LLMs and AI code editors. Automatically keeps code documentation synchronized with your codebase, enabling AI agents to work with accurate, up-to-date context. Supports Claude, Gemini, and other AI coding platforms.",
+  "author": "upstash",
+  "repo_url": "https://github.com/upstash/context7",
+  "raw_url": "https://github.com/upstash/context7",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code", "gemini"],
+  "tags": ["documentation", "context", "llm", "mcp", "code-indexing", "ai-editors"],
+  "suitable_for": [
+    "Keeping AI agents in sync with codebase changes",
+    "Real-time code documentation",
+    "MCP server integration",
+    "AI-powered code editors"
+  ],
+  "improves": [
+    "Context accuracy for AI agents",
+    "Documentation freshness",
+    "Code understanding by LLMs",
+    "Development workflow efficiency"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "PDF Processing",
+  "tagline": "Read, extract, merge, split, rotate, encrypt, and create PDFs — complete PDF manipulation guide.",
+  "description": "Comprehensive PDF processing skill covering all common operations: reading and extracting text/tables from PDFs, merging and splitting PDFs, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting, extracting images, and OCR on scanned PDFs. Includes Python libraries (pypdf, pdfplumber, reportlab) and command-line tools (qpdf, pdftotext, pdftk). Detailed examples for every task.",
+  "author": "anthropics",
+  "repo_url": "https://github.com/anthropics/skills/tree/main/skills/pdf",
+  "raw_url": "https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/pdf/SKILL.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["pdf", "text-extraction", "document-processing", "tables", "ocr", "forms", "python"],
+  "suitable_for": [
+    "Extracting text and tables from PDFs",
+    "Merging and splitting PDF documents",
+    "Creating new PDFs programmatically",
+    "Processing scanned documents with OCR",
+    "Filling PDF forms",
+    "Document automation"
+  ],
+  "improves": [
+    "PDF manipulation capabilities",
+    "Document processing speed",
+    "Text extraction accuracy",
+    "Form handling",
+    "Batch document operations"
+  ]
+}

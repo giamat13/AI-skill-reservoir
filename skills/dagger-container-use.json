@@ -1,0 +1,25 @@
+{
+  "name": "Dagger Container Use",
+  "tagline": "Programmatic container orchestration and CI/CD pipeline automation with Dagger.",
+  "description": "Dagger Container Use provides programmatic container orchestration and CI/CD automation. Define pipelines as code, execute containers programmatically, manage dependencies, and automate complex build and deployment workflows. Language-agnostic approach to infrastructure automation with support for multiple programming languages.",
+  "author": "dagger",
+  "repo_url": "https://github.com/dagger/container-use",
+  "raw_url": "https://github.com/dagger/container-use",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["containers", "ci-cd", "orchestration", "dagger", "automation", "pipelines", "infrastructure"],
+  "suitable_for": [
+    "CI/CD pipeline automation",
+    "Container orchestration",
+    "Build automation",
+    "Deployment workflows",
+    "Infrastructure as code"
+  ],
+  "improves": [
+    "Pipeline automation efficiency",
+    "Container management capabilities",
+    "Build process reliability",
+    "Deployment speed",
+    "Infrastructure automation"
+  ]
+}

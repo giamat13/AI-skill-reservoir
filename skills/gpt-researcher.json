@@ -1,0 +1,26 @@
+{
+  "name": "GPT Researcher",
+  "tagline": "Autonomous agent for deep research on any data using any LLM provider — web scraping, analysis, and reporting.",
+  "description": "Autonomous research agent that conducts deep research on any data using any LLM provider. Supports web scraping, multi-source analysis, and comprehensive report generation. Works with multiple LLM providers and includes MCP server support. Designed for conducting thorough research tasks with automated data collection, analysis, and synthesis. Includes CLI and programmatic interfaces for integration into workflows.",
+  "author": "assafelovic",
+  "repo_url": "https://github.com/assafelovic/gpt-researcher",
+  "raw_url": "https://github.com/assafelovic/gpt-researcher",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["research", "agent", "automation", "web-scraping", "llm", "mcp", "analysis"],
+  "suitable_for": [
+    "Autonomous research tasks",
+    "Deep data analysis",
+    "Web scraping and aggregation",
+    "Multi-source research",
+    "Report generation",
+    "Automated research workflows"
+  ],
+  "improves": [
+    "Research automation",
+    "Data collection speed",
+    "Analysis depth",
+    "Report quality",
+    "Research efficiency"
+  ]
+}

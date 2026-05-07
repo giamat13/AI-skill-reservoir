@@ -1,0 +1,26 @@
+{
+  "name": "Codebase Memory MCP",
+  "tagline": "High-performance code intelligence — indexes any codebase into a persistent knowledge graph in milliseconds. 155 languages, sub-ms queries, 99% fewer tokens.",
+  "description": "Codebase-Memory MCP is a structural analysis backend that builds and queries a knowledge graph of your codebase. Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minutes. 155 languages via vendored tree-sitter. 14 MCP tools: search, trace, architecture, impact analysis, Cypher queries, dead code detection, cross-service HTTP linking, ADR management. Single static binary, zero dependencies. 120x fewer tokens than file-by-file exploration. Built-in 3D graph visualization UI. Works with 11 coding agents.",
+  "author": "DeusData",
+  "repo_url": "https://github.com/DeusData/codebase-memory-mcp",
+  "raw_url": "https://github.com/DeusData/codebase-memory-mcp",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code", "cursor", "codex"],
+  "tags": ["code-intelligence", "knowledge-graph", "mcp", "ast", "tree-sitter", "search", "architecture", "performance"],
+  "suitable_for": [
+    "Understanding large codebases",
+    "Cross-service architecture analysis",
+    "Dead code detection",
+    "Impact analysis on changes",
+    "Call graph tracing",
+    "Code search and navigation"
+  ],
+  "improves": [
+    "Code understanding speed",
+    "Token efficiency (99% reduction)",
+    "Architecture visibility",
+    "Change impact analysis",
+    "Cross-service linking"
+  ]
+}

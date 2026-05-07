@@ -1,0 +1,29 @@
+{
+  "name": "Claude SEO",
+  "tagline": "Comprehensive SEO audit skill — 21 sub-skills covering technical SEO, content analysis, schema markup, AI search optimization, and more.",
+  "description": "Complete SEO analysis skill for Claude Code with 21 core sub-skills and 3 extensions. Covers technical SEO, on-page analysis, E-E-A-T content quality, schema markup detection and generation, image optimization, sitemap architecture, AI search optimization (GEO), local SEO and maps intelligence, semantic topic clustering, search experience optimization (SXO), SEO drift monitoring, e-commerce SEO, international SEO with hreflang, Google SEO APIs (Search Console, PageSpeed, CrUX, GA4), PDF report generation, programmatic SEO, competitor comparison pages, and strategic planning. Includes extensions for DataForSEO, Firecrawl, and AI image generation.",
+  "author": "AgriciDaniel",
+  "repo_url": "https://github.com/AgriciDaniel/claude-seo",
+  "raw_url": "https://github.com/AgriciDaniel/claude-seo",
+  "added": "2025-05-07",
+  "compatible_with": ["claude_code"],
+  "tags": ["seo", "audit", "technical-seo", "content-analysis", "schema-markup", "ai-search", "local-seo", "google-apis"],
+  "suitable_for": [
+    "Full website SEO audits",
+    "Technical SEO analysis",
+    "Content quality and E-E-A-T evaluation",
+    "Schema markup validation and generation",
+    "AI search optimization",
+    "Local SEO and maps intelligence",
+    "Programmatic SEO planning",
+    "Competitor analysis"
+  ],
+  "improves": [
+    "SEO audit depth",
+    "Technical SEO detection",
+    "Content quality assessment",
+    "Schema markup accuracy",
+    "AI search visibility",
+    "Local search performance"
+  ]
+}

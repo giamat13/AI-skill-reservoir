@@ -1,0 +1,26 @@
+{
+  "name": "Web Artifacts Builder",
+  "tagline": "Create elaborate multi-component React artifacts with Tailwind CSS and shadcn/ui — complex interactive web apps.",
+  "description": "Suite of tools for creating complex claude.ai HTML artifacts using modern frontend technologies. Stack: React 18 + TypeScript + Vite + Parcel + Tailwind CSS + shadcn/ui. Includes initialization script to set up fully configured projects, development workflow, bundling to single HTML file, and optional testing. Supports state management, routing, and 40+ pre-installed shadcn/ui components. Avoids AI slop aesthetics (no excessive centered layouts, purple gradients, uniform rounded corners, or Inter font).",
+  "author": "anthropics",
+  "repo_url": "https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder",
+  "raw_url": "https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/web-artifacts-builder/SKILL.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["react", "web-development", "artifacts", "tailwind", "shadcn-ui", "typescript", "frontend"],
+  "suitable_for": [
+    "Creating complex interactive web applications",
+    "Building multi-component React artifacts",
+    "Developing state-managed web apps",
+    "Creating routed applications",
+    "Building with shadcn/ui components",
+    "Bundling React apps to single HTML"
+  ],
+  "improves": [
+    "Web artifact complexity",
+    "Frontend development speed",
+    "Component reusability",
+    "Design system consistency",
+    "Interactive application capabilities"
+  ]
+}

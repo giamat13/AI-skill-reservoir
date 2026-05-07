@@ -1,0 +1,29 @@
+{
+  "name": "Marketing Skills",
+  "tagline": "40+ AI agent skills for marketing — conversion optimization, copywriting, SEO, paid ads, analytics, and growth.",
+  "description": "Comprehensive collection of 40+ marketing skills for AI coding agents. Covers conversion optimization (page CRO, signup flows, onboarding, forms, popups, paywalls), content & copy (copywriting, cold email, email sequences, social content), SEO & discovery (audits, AI SEO, programmatic SEO, schema markup), paid advertising, measurement & testing, retention, growth engineering, strategy & monetization, and sales/RevOps. All skills reference product-marketing-context for shared understanding. Works with Claude Code, Codex, Cursor, Windsurf, and any agent supporting Agent Skills spec.",
+  "author": "coreyhaines31",
+  "repo_url": "https://github.com/coreyhaines31/marketingskills",
+  "raw_url": "https://github.com/coreyhaines31/marketingskills",
+  "added": "2025-05-07",
+  "compatible_with": ["claude_code", "cursor", "codex"],
+  "tags": ["marketing", "conversion-optimization", "copywriting", "seo", "paid-ads", "analytics", "growth", "sales"],
+  "suitable_for": [
+    "Conversion rate optimization",
+    "Landing page copywriting",
+    "SEO and content strategy",
+    "Paid advertising campaigns",
+    "Email marketing sequences",
+    "Analytics and measurement",
+    "Sales enablement",
+    "Growth strategy"
+  ],
+  "improves": [
+    "Marketing campaign effectiveness",
+    "Conversion rates",
+    "Copy quality",
+    "SEO performance",
+    "Growth velocity",
+    "Sales enablement"
+  ]
+}

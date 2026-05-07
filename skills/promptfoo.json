@@ -1,0 +1,26 @@
+{
+  "name": "Promptfoo",
+  "tagline": "Test your prompts, agents, and RAGs — red teaming, evaluation, and benchmarking for LLMs.",
+  "description": "Comprehensive testing and evaluation framework for prompts, agents, and RAG systems. Supports red teaming, pentesting, and vulnerability scanning for AI. Compare performance across multiple LLM providers (GPT, Claude, Gemini, Llama, etc.). Includes declarative configuration, CLI tools, CI/CD integration, and automated benchmarking. Used by OpenAI and Anthropic for prompt evaluation and quality assurance.",
+  "author": "promptfoo",
+  "repo_url": "https://github.com/promptfoo/promptfoo",
+  "raw_url": "https://github.com/promptfoo/promptfoo",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["testing", "evaluation", "benchmarking", "red-teaming", "llm", "prompt-engineering", "ci-cd"],
+  "suitable_for": [
+    "Testing and evaluating prompts",
+    "Comparing LLM provider performance",
+    "Red teaming and security testing",
+    "Automated benchmarking",
+    "RAG system evaluation",
+    "CI/CD integration for AI systems"
+  ],
+  "improves": [
+    "Prompt quality",
+    "Model comparison",
+    "Testing coverage",
+    "Evaluation rigor",
+    "Deployment confidence"
+  ]
+}

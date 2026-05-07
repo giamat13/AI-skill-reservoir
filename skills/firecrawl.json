@@ -1,0 +1,25 @@
+{
+  "name": "Firecrawl",
+  "tagline": "Web scraping and data extraction API for crawling and extracting structured data from websites.",
+  "description": "Firecrawl is a web scraping and data extraction platform that converts websites into clean, structured data. Crawl entire websites, extract specific data with LLM-powered parsing, handle JavaScript-rendered content, and get structured JSON output. Perfect for data collection, research, and content extraction at scale.",
+  "author": "firecrawl",
+  "repo_url": "https://github.com/firecrawl/firecrawl",
+  "raw_url": "https://github.com/firecrawl/firecrawl",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["web-scraping", "data-extraction", "crawling", "api", "structured-data", "llm"],
+  "suitable_for": [
+    "Website data extraction",
+    "Web crawling and mapping",
+    "Content collection and research",
+    "Structured data generation",
+    "LLM-powered data parsing"
+  ],
+  "improves": [
+    "Data extraction accuracy",
+    "Web crawling efficiency",
+    "Structured data generation",
+    "Research data collection",
+    "Content parsing capabilities"
+  ]
+}

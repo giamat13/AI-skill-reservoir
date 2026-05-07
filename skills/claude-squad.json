@@ -1,0 +1,25 @@
+{
+  "name": "Claude Squad",
+  "tagline": "Multi-agent orchestration framework for coordinating multiple Claude instances to solve complex tasks.",
+  "description": "Claude Squad is a framework for orchestrating multiple Claude AI agents to work together on complex problems. Coordinate agent communication, manage task delegation, handle inter-agent collaboration, and aggregate results from multiple agents. Perfect for complex reasoning tasks that benefit from diverse perspectives and specialized agent roles.",
+  "author": "smtg-ai",
+  "repo_url": "https://github.com/smtg-ai/claude-squad",
+  "raw_url": "https://github.com/smtg-ai/claude-squad",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["multi-agent", "orchestration", "claude", "collaboration", "reasoning", "task-delegation", "ai-agents"],
+  "suitable_for": [
+    "Complex multi-step problem solving",
+    "Multi-agent collaboration",
+    "Task delegation and coordination",
+    "Specialized agent roles",
+    "Advanced reasoning workflows"
+  ],
+  "improves": [
+    "Complex problem solving capabilities",
+    "Agent collaboration efficiency",
+    "Task delegation and coordination",
+    "Reasoning quality through diverse perspectives",
+    "Multi-agent orchestration"
+  ]
+}

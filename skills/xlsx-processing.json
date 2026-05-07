@@ -1,0 +1,26 @@
+{
+  "name": "XLSX Processing",
+  "tagline": "Create, read, edit, and analyze Excel spreadsheets — formulas, formatting, data analysis, and financial models.",
+  "description": "Complete Excel spreadsheet skill covering creation, editing, and analysis of .xlsx, .xlsm, .csv, and .tsv files. Includes data manipulation with pandas, formula construction with openpyxl, financial model color coding standards, number formatting conventions, and formula verification. Covers adding columns, computing formulas, formatting, charting, cleaning messy data, and converting between tabular formats. Mandatory formula recalculation with LibreOffice integration.",
+  "author": "anthropics",
+  "repo_url": "https://github.com/anthropics/skills/tree/main/skills/xlsx",
+  "raw_url": "https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/xlsx/SKILL.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["excel", "spreadsheet", "data-analysis", "formulas", "financial-models", "pandas", "openpyxl"],
+  "suitable_for": [
+    "Creating and editing Excel spreadsheets",
+    "Data analysis and manipulation",
+    "Building financial models",
+    "Cleaning and restructuring tabular data",
+    "Converting between spreadsheet formats",
+    "Formula-based calculations"
+  ],
+  "improves": [
+    "Spreadsheet creation speed",
+    "Data analysis capabilities",
+    "Financial modeling accuracy",
+    "Data cleaning efficiency",
+    "Formula reliability"
+  ]
+}

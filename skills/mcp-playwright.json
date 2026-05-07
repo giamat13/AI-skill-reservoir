@@ -1,0 +1,26 @@
+{
+  "name": "MCP Playwright",
+  "tagline": "Browser automation via MCP — take screenshots, scrape pages, generate test code, and execute JavaScript in a real browser.",
+  "description": "Playwright MCP Server provides browser automation capabilities for LLMs. Interact with web pages, take screenshots, generate test code, web scrape, and execute JavaScript in a real browser environment. Supports 143 real device presets (iPhone, iPad, Pixel, Galaxy, Desktop). Works with Claude Desktop, Cline, Cursor IDE, VS Code, and any MCP client. Automatic browser installation, HTTP and stdio modes.",
+  "author": "executeautomation",
+  "repo_url": "https://github.com/executeautomation/mcp-playwright",
+  "raw_url": "https://github.com/executeautomation/mcp-playwright",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code", "cursor", "cline"],
+  "tags": ["browser", "automation", "testing", "mcp", "playwright", "scraping", "screenshots", "device-emulation"],
+  "suitable_for": [
+    "Web scraping and data extraction",
+    "Automated browser testing",
+    "Screenshot generation",
+    "Test code generation",
+    "Device emulation testing",
+    "JavaScript execution in browser"
+  ],
+  "improves": [
+    "Browser automation capabilities",
+    "Web testing accuracy",
+    "Cross-device testing",
+    "Test code generation",
+    "Web scraping reliability"
+  ]
+}

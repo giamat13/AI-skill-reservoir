@@ -1,0 +1,28 @@
+{
+  "name": "Deep Research",
+  "tagline": "Multi-source research with citation tracking, evidence persistence, and structured report generation.",
+  "description": "Comprehensive research skill for delivering citation-tracked research reports through a structured pipeline. Includes evidence persistence, source identity management, claim-level verification, and progressive context management. Supports four research modes: quick (3 phases, 2-5 min), standard (6 phases, 5-10 min), deep (8 phases, 10-20 min), and ultradeep (8+ phases, 20-45 min). Generates professional reports with Executive Summary, Introduction, Main Analysis, Synthesis, Limitations, Recommendations, and complete Bibliography. Outputs Markdown, HTML (McKinsey style), PDF, and structured data files (sources.jsonl, evidence.jsonl, claims.jsonl).",
+  "author": "199-biotechnologies",
+  "repo_url": "https://github.com/199-biotechnologies/claude-deep-research-skill",
+  "raw_url": "https://raw.githubusercontent.com/199-biotechnologies/claude-deep-research-skill/refs/heads/main/SKILL.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["research", "analysis", "citations", "reports", "evidence", "multi-source", "structured-data"],
+  "suitable_for": [
+    "Comprehensive research analysis",
+    "Technology comparisons",
+    "State-of-the-art reviews",
+    "Multi-perspective investigation",
+    "Market analysis",
+    "Trend analysis",
+    "Professional report generation"
+  ],
+  "improves": [
+    "Research depth",
+    "Citation accuracy",
+    "Report quality",
+    "Evidence tracking",
+    "Analysis rigor",
+    "Professional documentation"
+  ]
+}

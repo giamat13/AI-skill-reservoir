@@ -1,0 +1,25 @@
+{
+  "name": "Tavily MCP",
+  "tagline": "Real-time web search, extract, map, and crawl via MCP — production-ready search capabilities for AI agents.",
+  "description": "Tavily MCP Server provides production-ready web search and data extraction tools. Real-time search with tavily-search, intelligent data extraction via tavily-extract, website mapping with tavily-map, and systematic web crawling with tavily-crawl. Supports remote MCP server (no local installation) or local deployment. Works with Claude Desktop, Claude Code, Cursor, and any MCP client. OAuth and API key authentication.",
+  "author": "tavily-ai",
+  "repo_url": "https://github.com/tavily-ai/tavily-mcp",
+  "raw_url": "https://github.com/tavily-ai/tavily-mcp",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code", "cursor"],
+  "tags": ["search", "web", "mcp", "extraction", "crawling", "mapping", "real-time"],
+  "suitable_for": [
+    "Real-time web search",
+    "Data extraction from web pages",
+    "Website mapping and structure analysis",
+    "Web crawling and exploration",
+    "Research and information gathering"
+  ],
+  "improves": [
+    "Web search accuracy",
+    "Data extraction reliability",
+    "Research capabilities",
+    "Information gathering speed",
+    "Website understanding"
+  ]
+}

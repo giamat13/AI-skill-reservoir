@@ -1,0 +1,26 @@
+{
+  "name": "PPTX Presentations",
+  "tagline": "Create, edit, and analyze PowerPoint presentations — decks, pitch decks, and slide content.",
+  "description": "Complete PowerPoint skill for creating slide decks, pitch presentations, and reading/parsing .pptx files. Covers creating from scratch with PptxGenJS, editing existing presentations, extracting text content, combining/splitting slides, working with templates and layouts, speaker notes, and comments. Includes design guidelines, color palettes, typography standards, visual QA checklist, and conversion to images for inspection. Emphasis on avoiding AI-generated aesthetics and creating visually distinctive presentations.",
+  "author": "anthropics",
+  "repo_url": "https://github.com/anthropics/skills/tree/main/skills/pptx",
+  "raw_url": "https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/pptx/SKILL.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["powerpoint", "presentations", "slides", "design", "pptxgenjs", "deck"],
+  "suitable_for": [
+    "Creating pitch decks",
+    "Building presentations from scratch",
+    "Editing existing PowerPoint files",
+    "Extracting and analyzing slide content",
+    "Designing visually distinctive slides",
+    "Combining or splitting presentations"
+  ],
+  "improves": [
+    "Presentation design quality",
+    "Slide creation speed",
+    "Visual consistency",
+    "Content extraction accuracy",
+    "Design distinctiveness"
+  ]
+}

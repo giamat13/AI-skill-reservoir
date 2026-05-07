@@ -1,0 +1,23 @@
+{
+  "name": "Frontend Design",
+  "tagline": "Create distinctive, production-grade frontend interfaces that avoid generic AI aesthetics.",
+  "description": "Guides creation of visually striking, production-grade frontend interfaces with bold aesthetic direction. Covers typography, color, motion, spatial composition, and visual details — ensuring every UI feels genuinely designed, not AI-generated.",
+  "author": "anthropics",
+  "repo_url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+  "raw_url": "https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/frontend-design/SKILL.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["frontend", "design", "ui", "css", "react", "html", "aesthetics", "components"],
+  "suitable_for": [
+    "Building web components and pages",
+    "Landing pages and dashboards",
+    "React and HTML/CSS layouts",
+    "Styling and beautifying any web UI"
+  ],
+  "improves": [
+    "Visual design quality",
+    "Typography and color choices",
+    "Animations and micro-interactions",
+    "Spatial composition and layout"
+  ]
+}

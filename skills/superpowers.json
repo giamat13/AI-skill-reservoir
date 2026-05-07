@@ -1,0 +1,23 @@
+{
+  "name": "Superpowers",
+  "tagline": "A complete software development methodology for coding agents — spec, plan, TDD, subagents, review, and merge.",
+  "description": "A composable skills system that transforms any coding agent into a disciplined engineer. Before writing code, it extracts a real spec, builds a bite-sized implementation plan, enforces RED-GREEN-REFACTOR TDD, dispatches subagents per task with two-stage code review, and handles branch merging. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode, and more.",
+  "author": "obra",
+  "repo_url": "https://github.com/obra/superpowers",
+  "raw_url": "https://raw.githubusercontent.com/obra/superpowers/main/CLAUDE.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code", "codex", "gemini", "cursor"],
+  "tags": ["methodology", "tdd", "planning", "agents", "workflow", "debugging", "code-review", "git"],
+  "suitable_for": [
+    "Coding agents that jump into code without a plan",
+    "Teams wanting enforced TDD and code review",
+    "Parallel subagent-driven development",
+    "Multi-hour autonomous coding sessions"
+  ],
+  "improves": [
+    "Spec clarity before implementation",
+    "Test coverage via RED-GREEN-REFACTOR",
+    "Code review quality",
+    "Autonomous agent reliability"
+  ]
+}

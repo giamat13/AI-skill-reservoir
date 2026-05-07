@@ -1,0 +1,26 @@
+{
+  "name": "Brand Guidelines",
+  "tagline": "Apply Anthropic's official brand colors and typography to artifacts — visual identity and styling.",
+  "description": "Applies Anthropic's official brand identity and style resources to any artifact. Includes official brand colors (dark #141413, light #faf9f5, mid gray #b0aea5, light gray #e8e6dc, orange #d97757, blue #6a9bcc, green #788c5d), typography guidelines (Poppins for headings, Lora for body text), smart font application with fallbacks, text styling with color selection based on background, and shape/accent color cycling. Maintains visual consistency and brand fidelity across all artifacts.",
+  "author": "anthropics",
+  "repo_url": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines",
+  "raw_url": "https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/brand-guidelines/SKILL.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["branding", "design", "visual-identity", "typography", "colors", "styling", "anthropic"],
+  "suitable_for": [
+    "Applying brand colors to artifacts",
+    "Consistent visual identity",
+    "Corporate design standards",
+    "Typography styling",
+    "Brand-compliant presentations",
+    "Visual formatting"
+  ],
+  "improves": [
+    "Brand consistency",
+    "Visual identity",
+    "Design professionalism",
+    "Typography quality",
+    "Color accuracy"
+  ]
+}

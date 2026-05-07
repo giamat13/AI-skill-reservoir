@@ -1,0 +1,25 @@
+{
+  "name": "Anthropic Skills",
+  "tagline": "Official Anthropic skills library for extending Claude capabilities with specialized tools and integrations.",
+  "description": "Anthropic Skills is the official skills library from Anthropic for extending Claude's capabilities. Access pre-built skills for common tasks, integrate specialized tools, and build custom skills for your applications. Includes documentation, examples, and best practices for skill development and deployment.",
+  "author": "anthropics",
+  "repo_url": "https://github.com/anthropics/skills",
+  "raw_url": "https://github.com/anthropics/skills",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["skills", "anthropic", "claude", "extensions", "tools", "integrations", "capabilities"],
+  "suitable_for": [
+    "Extending Claude capabilities",
+    "Building custom skills",
+    "Tool integration",
+    "Specialized task automation",
+    "Claude application development"
+  ],
+  "improves": [
+    "Claude functionality",
+    "Task automation capabilities",
+    "Tool integration efficiency",
+    "Application extensibility",
+    "Skill development speed"
+  ]
+}

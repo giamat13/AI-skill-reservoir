@@ -1,0 +1,26 @@
+{
+  "name": "Skill Creator",
+  "tagline": "Create, modify, and optimize skills — write new skills, improve existing ones, and measure performance.",
+  "description": "Complete workflow for creating and iterating on skills. Covers skill creation from scratch, editing and improving existing skills, running evaluations to test skill performance, benchmarking with variance analysis, and optimizing skill descriptions for better triggering accuracy. Includes test case management, quantitative evaluation framework, visual result review, and iterative improvement loop. Supports both Claude Code (with subagents) and Claude.ai (sequential execution) workflows.",
+  "author": "anthropics",
+  "repo_url": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+  "raw_url": "https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/skill-creator/SKILL.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["skills", "creation", "evaluation", "benchmarking", "optimization", "testing"],
+  "suitable_for": [
+    "Creating new skills from scratch",
+    "Editing and improving existing skills",
+    "Running skill evaluations",
+    "Benchmarking skill performance",
+    "Optimizing skill descriptions",
+    "Iterative skill development"
+  ],
+  "improves": [
+    "Skill quality",
+    "Triggering accuracy",
+    "Performance metrics",
+    "Development efficiency",
+    "Skill reliability"
+  ]
+}

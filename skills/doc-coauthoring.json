@@ -1,0 +1,26 @@
+{
+  "name": "Doc Co-Authoring",
+  "tagline": "Structured workflow for collaborative document creation — context gathering, refinement, and reader testing.",
+  "description": "Complete workflow for co-authoring documentation, proposals, technical specs, decision docs, and similar structured content. Three-stage process: Context Gathering (close knowledge gaps through clarifying questions), Refinement & Structure (build section-by-section through brainstorming and iteration), and Reader Testing (verify document works for readers with fresh Claude instance). Includes guidance on handling templates, shared documents, integrations, and iterative refinement. Ensures documents are clear, complete, and effective for their intended audience.",
+  "author": "anthropics",
+  "repo_url": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
+  "raw_url": "https://raw.githubusercontent.com/anthropics/skills/refs/heads/main/skills/doc-coauthoring/SKILL.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["documentation", "writing", "proposals", "specs", "collaboration", "workflow"],
+  "suitable_for": [
+    "Writing technical documentation",
+    "Creating proposals and RFPs",
+    "Drafting decision documents",
+    "Co-authoring specifications",
+    "Collaborative content creation",
+    "Document refinement and testing"
+  ],
+  "improves": [
+    "Documentation quality",
+    "Writing clarity",
+    "Reader comprehension",
+    "Collaboration efficiency",
+    "Document completeness"
+  ]
+}

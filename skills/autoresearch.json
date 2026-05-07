@@ -1,0 +1,23 @@
+{
+  "name": "Autoresearch",
+  "tagline": "Let an AI agent run ML experiments autonomously overnight on a single GPU.",
+  "description": "Give an AI agent a real LLM training setup and let it experiment autonomously. It modifies train.py, trains for 5 minutes, checks if val_bpb improved, keeps or discards, and repeats — waking you up to a log of experiments and a better model. Based on Karpathy's nanochat training setup.",
+  "author": "karpathy",
+  "repo_url": "https://github.com/karpathy/autoresearch",
+  "raw_url": "https://raw.githubusercontent.com/karpathy/autoresearch/master/program.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["research", "ml", "training", "autonomous", "agents", "llm", "gpu", "python"],
+  "suitable_for": [
+    "ML researchers with a single NVIDIA GPU",
+    "Overnight autonomous hyperparameter search",
+    "Experimenting with GPT architecture changes",
+    "Automated training loop optimization"
+  ],
+  "improves": [
+    "Model val_bpb metric",
+    "Research iteration speed",
+    "Experiment reproducibility",
+    "Autonomous agent workflows"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Context Engineering Skills",
+  "tagline": "Agent skills for context engineering, multi-agent architectures, and production agent systems.",
+  "description": "Comprehensive collection of agent skills for context engineering and multi-agent system development. Covers context management, multi-agent architectures, prompt engineering, agent optimization, and production deployment patterns. Designed for building, optimizing, and debugging agent systems that require effective context management. Includes best practices for prompt design, context window optimization, and agent coordination.",
+  "author": "muratcankoylan",
+  "repo_url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+  "raw_url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["agents", "context-engineering", "multi-agent", "prompt-engineering", "optimization", "production"],
+  "suitable_for": [
+    "Building multi-agent systems",
+    "Context management optimization",
+    "Prompt engineering",
+    "Agent system debugging",
+    "Production agent deployment",
+    "Agent architecture design"
+  ],
+  "improves": [
+    "Agent performance",
+    "Context efficiency",
+    "Multi-agent coordination",
+    "Prompt quality",
+    "System reliability"
+  ]
+}

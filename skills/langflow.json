@@ -1,0 +1,25 @@
+{
+  "name": "Langflow",
+  "tagline": "Low-code platform for building and deploying LLM applications with visual workflows.",
+  "description": "Langflow is a low-code platform for building and deploying LLM applications. Create complex AI workflows visually without coding, integrate with LangChain, manage prompts and chains, and deploy to production. Supports multiple LLM providers, custom components, and API-first architecture.",
+  "author": "langflow-ai",
+  "repo_url": "https://github.com/langflow-ai/langflow",
+  "raw_url": "https://github.com/langflow-ai/langflow",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["llm", "workflow", "low-code", "langchain", "ai-applications", "visual-builder", "deployment"],
+  "suitable_for": [
+    "Building LLM applications visually",
+    "LangChain workflow orchestration",
+    "Prompt management and optimization",
+    "AI application deployment",
+    "Complex AI pipeline creation"
+  ],
+  "improves": [
+    "LLM application development speed",
+    "Workflow visualization and debugging",
+    "Prompt management efficiency",
+    "AI pipeline orchestration",
+    "Application deployment capabilities"
+  ]
+}

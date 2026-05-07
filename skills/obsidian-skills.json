@@ -1,0 +1,26 @@
+{
+  "name": "Obsidian Skills",
+  "tagline": "Agent skills for Obsidian — teach your agent to use Markdown, Bases, JSON Canvas, and CLI.",
+  "description": "Collection of agent skills for Obsidian integration. Teaches AI agents to work with Obsidian's core features: Markdown editing, Obsidian Bases (structured data), JSON Canvas (visual note linking), and command-line interface. Enables agents to create, edit, organize, and visualize notes within Obsidian. Works with Claude Code, Codex, OpenCode, OpenClaw, and other AI agents supporting the Agent Skills spec.",
+  "author": "kepano",
+  "repo_url": "https://github.com/kepano/obsidian-skills",
+  "raw_url": "https://github.com/kepano/obsidian-skills",
+  "added": "2025-05-07",
+  "compatible_with": ["claude_code", "codex", "opencode"],
+  "tags": ["obsidian", "markdown", "note-taking", "cli", "json-canvas", "bases"],
+  "suitable_for": [
+    "Creating and editing Obsidian notes",
+    "Managing Obsidian Bases",
+    "Creating JSON Canvas visualizations",
+    "Automating Obsidian workflows",
+    "CLI-based note management",
+    "Knowledge base organization"
+  ],
+  "improves": [
+    "Obsidian automation",
+    "Note creation speed",
+    "Knowledge organization",
+    "Workflow integration",
+    "Visual note linking"
+  ]
+}

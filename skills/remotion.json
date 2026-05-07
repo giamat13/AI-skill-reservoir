@@ -1,0 +1,26 @@
+{
+  "name": "Remotion",
+  "tagline": "Make videos programmatically with React — create dynamic video content using JavaScript and React components.",
+  "description": "Remotion is a framework for creating videos programmatically using React. Write video code in JavaScript/TypeScript with React components, animations, and dynamic content. Supports rendering to MP4, WebM, GIF, and other formats. Includes CLI tools, server APIs, and cloud rendering capabilities. Perfect for generating videos at scale, creating dynamic content, and automating video production workflows.",
+  "author": "remotion-dev",
+  "repo_url": "https://github.com/remotion-dev/remotion",
+  "raw_url": "https://github.com/remotion-dev/remotion",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["video", "react", "javascript", "typescript", "animation", "video-generation", "automation"],
+  "suitable_for": [
+    "Programmatic video creation",
+    "Dynamic video generation",
+    "Animated content production",
+    "Video automation workflows",
+    "Batch video rendering",
+    "Interactive video experiences"
+  ],
+  "improves": [
+    "Video creation speed",
+    "Automation capabilities",
+    "Dynamic content generation",
+    "Batch processing efficiency",
+    "Video production workflow"
+  ]
+}

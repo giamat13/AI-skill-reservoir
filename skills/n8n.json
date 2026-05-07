@@ -1,0 +1,25 @@
+{
+  "name": "n8n",
+  "tagline": "Workflow automation platform to connect apps and automate business processes.",
+  "description": "n8n is a fair-code workflow automation platform that lets you connect different apps and services to automate complex business processes. Build visual workflows without coding, integrate with 400+ apps, and deploy on your own infrastructure. Supports webhooks, scheduling, error handling, and advanced automation patterns.",
+  "author": "n8n-io",
+  "repo_url": "https://github.com/n8n-io/n8n",
+  "raw_url": "https://github.com/n8n-io/n8n",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["automation", "workflow", "integration", "no-code", "orchestration", "api", "scheduling"],
+  "suitable_for": [
+    "Business process automation",
+    "App integration and data synchronization",
+    "Workflow orchestration",
+    "Scheduled tasks and webhooks",
+    "Enterprise automation"
+  ],
+  "improves": [
+    "Workflow automation capabilities",
+    "Integration efficiency",
+    "Process automation speed",
+    "Business process optimization",
+    "Multi-app coordination"
+  ]
+}
