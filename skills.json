@@ -1,0 +1,139 @@
+{
+  "meta": {
+    "title": "AI Skills Registry",
+    "version": "2.0.0",
+    "description": "A community-curated index of reusable AI skills — prompt-based instruction sets that extend any AI assistant's capabilities."
+  },
+  "ai_platforms": [
+    { "id": "claude", "name": "Claude", "color": "#d97757" },
+    { "id": "chatgpt", "name": "ChatGPT", "color": "#10a37f" },
+    { "id": "gemini", "name": "Gemini", "color": "#4285f4" },
+    { "id": "cursor", "name": "Cursor", "color": "#9d8fff" },
+    { "id": "copilot", "name": "Copilot", "color": "#0078d4" },
+    { "id": "grok", "name": "Grok", "color": "#aaaaaa" },
+    { "id": "mistral", "name": "Mistral", "color": "#ff6b35" },
+    { "id": "perplexity", "name": "Perplexity", "color": "#20b2aa" }
+  ],
+  "skills": [
+    {
+      "id": "usage-limit-reducer",
+      "name": "Usage Limit Reducer",
+      "author": "Dubibubii",
+      "tagline": "Stop burning through tokens. Start working smarter.",
+      "description": "Diagnoses your Claude session, runs a real token-usage report from local JSONL logs, and applies 11 proven rules to cut usage — without losing productivity.",
+      "suitable_for": [
+        "Claude Code users",
+        "Power users hitting plan limits",
+        "Long-running conversations",
+        "Developers on Pro/Max plans"
+      ],
+      "what_it_does": [
+        "Runs a live token-usage report from ~/.claude project logs",
+        "Diagnoses conversation length, CLAUDE.md presence, and model selection",
+        "Applies 11 rules matched to your specific situation",
+        "Recommends concrete next actions (compact, clear, model switch)"
+      ],
+      "improves": [
+        "Token efficiency",
+        "Cache hit rate",
+        "Model selection decisions",
+        "Session management"
+      ],
+      "compatible_with": ["claude"],
+      "tags": ["efficiency", "tokens", "claude-code", "optimization", "limits", "productivity"],
+      "repo_url": "https://github.com/Dubibubii/usage-limit-reducer",
+      "raw_url": "https://raw.githubusercontent.com/Dubibubii/usage-limit-reducer/refs/heads/main/SKILL.md",
+      "added": "2025-01-01"
+    },
+    {
+      "id": "code-reviewer",
+      "name": "Code Reviewer",
+      "author": "community",
+      "tagline": "Deep, opinionated code reviews — like a senior engineer on your team.",
+      "description": "Structured code review skill that checks for correctness, security, performance, readability, and maintainability. Returns ranked issues with severity levels and fix suggestions.",
+      "suitable_for": [
+        "Developers seeking feedback",
+        "PR review automation",
+        "Solo developers without a team",
+        "Learning best practices"
+      ],
+      "what_it_does": [
+        "Reviews code for bugs, security issues, and anti-patterns",
+        "Rates issues by severity (critical / warning / suggestion)",
+        "Suggests concrete rewrites with explanation",
+        "Checks naming conventions and documentation"
+      ],
+      "improves": [
+        "Code quality",
+        "Security posture",
+        "Review consistency",
+        "Developer learning speed"
+      ],
+      "compatible_with": ["claude", "chatgpt", "gemini", "cursor", "copilot", "mistral"],
+      "tags": ["coding", "review", "quality", "security", "best-practices"],
+      "repo_url": "https://github.com/community/code-reviewer-skill",
+      "raw_url": "https://raw.githubusercontent.com/community/code-reviewer-skill/main/SKILL.md",
+      "added": "2025-02-15"
+    },
+    {
+      "id": "research-synthesizer",
+      "name": "Research Synthesizer",
+      "author": "community",
+      "tagline": "Turn scattered information into structured insight.",
+      "description": "Takes multiple sources, documents, or URL dumps and synthesizes them into a coherent report with key findings, conflicting views, open questions, and confidence scores.",
+      "suitable_for": [
+        "Researchers and students",
+        "Journalists and writers",
+        "Business analysts",
+        "Competitive analysis"
+      ],
+      "what_it_does": [
+        "Identifies main claims and themes across sources",
+        "Surfaces conflicts and consensus between sources",
+        "Assigns confidence level to each finding",
+        "Generates executive summary + full report"
+      ],
+      "improves": [
+        "Research speed",
+        "Information density",
+        "Source triangulation",
+        "Report quality"
+      ],
+      "compatible_with": ["claude", "chatgpt", "gemini", "perplexity", "grok"],
+      "tags": ["research", "writing", "analysis", "synthesis", "productivity"],
+      "repo_url": "https://github.com/community/research-synthesizer",
+      "raw_url": "https://raw.githubusercontent.com/community/research-synthesizer/main/SKILL.md",
+      "added": "2025-03-10"
+    },
+    {
+      "id": "prompt-engineer",
+      "name": "Prompt Engineer",
+      "author": "community",
+      "tagline": "Write prompts that actually work — for any AI.",
+      "description": "Meta-skill that helps you craft, iterate, and evaluate prompts. Applies chain-of-thought, few-shot, role-play, and constraint techniques and explains why each choice improves output.",
+      "suitable_for": [
+        "AI power users",
+        "Developers building AI products",
+        "Anyone getting inconsistent AI outputs",
+        "Teams standardizing AI workflows"
+      ],
+      "what_it_does": [
+        "Diagnoses why a prompt produces weak output",
+        "Rewrites prompts using proven techniques",
+        "Generates 3 variants ranked by expected effectiveness",
+        "Explains each design decision"
+      ],
+      "improves": [
+        "Output consistency",
+        "Task completion rate",
+        "Prompt reusability",
+        "AI ROI"
+      ],
+      "compatible_with": ["claude", "chatgpt", "gemini", "grok", "mistral", "perplexity", "cursor", "copilot"],
+      "tags": ["prompting", "meta", "productivity", "optimization", "universal"],
+      "repo_url": "https://github.com/community/prompt-engineer-skill",
+      "raw_url": "https://raw.githubusercontent.com/community/prompt-engineer-skill/main/SKILL.md",
+      "added": "2025-03-22"
+    }
+  ]
+}
