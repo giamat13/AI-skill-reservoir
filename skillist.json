@@ -1,0 +1,23 @@
+{
+  "ai_platforms": [
+    {
+      "id": "claude",
+      "name": "Claude",
+      "color": "#7c6af7"
+    },
+    {
+      "id": "claude_code",
+      "name": "Claude Code",
+      "color": "#34d399"
+    }
+  ],
+  "skills": [
+    {
+      "id": "usage-limit-reducer",
+      "name": "Usage Limit Reducer",
+      "added": "2025-05-07",
+      "compatible_with": ["claude", "claude_code"],
+      "tags": ["tokens", "usage", "efficiency", "limits", "claude-code", "optimization"]
+    }
+  ]
+}

@@ -610,15 +610,16 @@ main {
 </div>
 
 <script>
-const DATA = 'skills.json';
 let skills = [], platforms = {}, activeTags = new Set(), activeAI = 'all', q = '';
 
 async function init() {
-  const res = await fetch(DATA).catch(() => null);
-  if (!res || !res.ok) { document.getElementById('grid').innerHTML = '<div class="empty"><div style="font-size:40px">⚠</div><h3>Could not load skills.json</h3><p>Place skills.json in the same folder as index.html</p></div>'; return; }
-  const data = await res.json();
-  skills = data.skills || [];
-  (data.ai_platforms || []).forEach(p => platforms[p.id] = p);
+  const res = await fetch('skillist.json').catch(() => null);
+  if (!res || !res.ok) { document.getElementById('grid').innerHTML = '<div class="empty"><div style="font-size:40px">⚠</div><h3>Could not load skillist.json</h3><p>Place index.json inside the skills/ folder</p></div>'; return; }
+  const index = await res.json();
+  (index.ai_platforms || []).forEach(p => platforms[p.id] = p);
+  skills = await Promise.all((index.skills || []).map(s =>
+    fetch(`skills/${s.id}.json`).then(r => r.json()).catch(() => s)
+  ));
 
   document.getElementById('stat-skills').textContent = skills.length;
   document.getElementById('stat-ais').textContent = Object.keys(platforms).length;

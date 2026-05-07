@@ -1,0 +1,23 @@
+{
+  "name": "Usage Limit Reducer",
+  "tagline": "Cut Claude token usage with Dubi's 11 rules — diagnose your session, run a real token report, and stop burning limits.",
+  "description": "Diagnoses where your tokens are going and applies targeted rules to reduce Claude usage. Runs a real token-usage report from local JSONL logs, checks conversation length, CLAUDE.md presence, and model selection. Matches the 2–4 most relevant rules to your current session.",
+  "author": "Dubibubii",
+  "repo_url": "https://github.com/Dubibubii/usage-limit-reducer",
+  "raw_url": "https://raw.githubusercontent.com/Dubibubii/usage-limit-reducer/refs/heads/main/SKILL.md",
+  "added": "2025-05-07",
+  "compatible_with": ["claude", "claude_code"],
+  "tags": ["tokens", "usage", "efficiency", "limits", "claude-code", "optimization"],
+  "suitable_for": [
+    "Users hitting Claude usage limits",
+    "Long conversations burning through tokens",
+    "Claude Code power users",
+    "Teams on Pro or Max plans"
+  ],
+  "improves": [
+    "Token efficiency",
+    "Cache hit rate",
+    "Model selection hygiene",
+    "Session management"
+  ]
+}
